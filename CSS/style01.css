@@ -1,0 +1,35 @@
+ body {
+    
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Por_do_Sol_em_Baixa_Grande.jpg/1024px-Por_do_Sol_em_Baixa_Grande.jpg);
+    background-size: auto 100vh;
+    height: 100vh;
+ }
+
+
+a {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+ .menu li {
+     list-style: none;
+ }
+
+
+ .menu ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+ }
+
+
+ .site-subtitle,
+ .site-title {
+     color: whitesmoke;
+     text-align: center;
+ }
